@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'finapi-sreekant'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A2152BB3F154525B3A1505736D7CC6C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_47876CC8266041AD851BE869A9816467 }}
